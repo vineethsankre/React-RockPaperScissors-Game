@@ -111,8 +111,6 @@ The app must have the following functionalities
 
 **The following instructions are required for the tests to pass**
 
-- **Styled Components** should be used for styling purposes
-
 
 </details>
 
