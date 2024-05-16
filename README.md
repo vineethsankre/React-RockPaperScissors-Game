@@ -145,6 +145,3 @@ The app must have the following functionalities
 - Bree Serif
 
 </details>
-
-> ### _Things to Keep in Mind_
->
