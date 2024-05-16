@@ -106,9 +106,6 @@ The app must have the following functionalities
 
 <br/>
 
-- You can use **reactjs-popup** for displaying the modal
-- `RiCloseLine` icon from `react icons` can be used for the **close** button at `React Popup`
-
 
 </details>
 
