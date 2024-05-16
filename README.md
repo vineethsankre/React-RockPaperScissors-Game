@@ -112,7 +112,7 @@ The app must have the following functionalities
 **The following instructions are required for the tests to pass**
 
 - **Styled Components** should be used for styling purposes
-- The Page should consist of three HTML button elements with `data-testid` attribute values as **rockButton**, **scissorsButton** and **paperButton** respectively
+
 
 </details>
 
