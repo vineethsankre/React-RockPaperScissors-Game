@@ -114,7 +114,6 @@ The app must have the following functionalities
 - **Styled Components** should be used for styling purposes
 - The Page should consist of three HTML button elements with `data-testid` attribute values as **rockButton**, **scissorsButton** and **paperButton** respectively
 - In Game Results View, the page should consist of an HTML image element with alt as **your choice** and src as URL for your choice image
-- In Game Results View, the page should consist of an HTML image element with alt as **opponent choice** and src as URL for opponent choice image
 
 </details>
 
