@@ -99,12 +99,6 @@ The app must have the following functionalities
 
 </details>
 
-### Important Note
-
-<details>
-
-
-</details>
 
 ### Resources
 
