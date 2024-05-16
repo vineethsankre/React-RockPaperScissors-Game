@@ -143,5 +143,3 @@ The app must have the following functionalities
 
 - Roboto
 - Bree Serif
-
-</details>
