@@ -102,7 +102,6 @@ The app must have the following functionalities
 ### Important Note
 
 <details>
-<summary>Click to view</summary>
 
 
 </details>
