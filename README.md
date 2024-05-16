@@ -104,8 +104,6 @@ The app must have the following functionalities
 <details>
 <summary>Click to view</summary>
 
-<br/>
-
 
 </details>
 
