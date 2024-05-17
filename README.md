@@ -66,8 +66,6 @@ The app must have the following functionalities
 <summary>Click to view</summary>
 <br>
 
-- You can use `Math.random()` function to get a 
-
   ``` 
 
 </details>
