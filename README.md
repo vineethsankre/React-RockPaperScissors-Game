@@ -76,7 +76,7 @@ The app must have the following functionalities
 
   ```js
   console.log(Math.floor(5.95)); // output: 5
-  ```
+
 
 </details>
 
