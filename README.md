@@ -68,9 +68,7 @@ The app must have the following functionalities
 
 - You can use `Math.random()` function to get a random number (float value) in range 0 to less than 1 (`0 <= randomNumber < 1`)
 
-  ```
-
-- You can use `Math.floor()` function that returns the 
+  ``` 
 
 </details>
 
