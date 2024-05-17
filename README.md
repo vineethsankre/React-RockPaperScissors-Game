@@ -62,8 +62,6 @@ The app must have the following functionalities
 
 ### Quick Tips
 
-<details>
-</details>
 
 
 ### Resources
