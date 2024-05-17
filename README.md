@@ -74,8 +74,6 @@ The app must have the following functionalities
 
 - You can use `Math.floor()` function that returns the **largest integer less than or equal to a given number**
 
-  ```js
-
 
 
 </details>
