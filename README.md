@@ -60,10 +60,6 @@ The app must have the following functionalities
 
 </details>
 
-### Quick Tips
-
-
-
 ### Resources
 
 <details>
