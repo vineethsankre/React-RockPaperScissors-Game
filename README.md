@@ -63,7 +63,6 @@ The app must have the following functionalities
 ### Quick Tips
 
 <details>
-<summary>Click to view</summary>
 </details>
 
 
